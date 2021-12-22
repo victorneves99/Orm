@@ -1,1 +1,3 @@
 # Orm
+
+3) Faça o mapeamento objeto relacional de uma estrutura física de um condomínio residencial que deverá ser persistido em um banco de dados MySQL usando Hibernate/JPA. As entidades necessárias estão sendo descritas a seguir de uma forma que precisam ser normalizadas. Um condomínio é constituído por diversas unidades e cada unidade pertence à um único morador. O condomínio é identificado pelo seu nome e endereço e cada unidade possui um número que o identifica dentro do condomínio. O morador é identificado apenas pelo seu nome e sobrenome. Faça o relacionamento entre as classes de modo que represente o contexto proposto. Os dados devem ser persistidos no banco de dados.
